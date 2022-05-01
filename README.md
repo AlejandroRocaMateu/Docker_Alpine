@@ -69,7 +69,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/4e2bd61a3e2e198be2ed1380135db7c6708f6c7b/14.PNG)
 
 * 3.15 Cuando le demos a enter, ahora nos iremos abajo del todo y vamos a la opcion de "PermitRootLogin" le quitamos el # y depsue borramos lo que tiene delante suyo y los sustituimos por "yes" 
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/ed9f30d9ec150ed067b8f3a69df0f0d2a3f61186/15.PNG)
 
 * 3.16 Salimos con "esc :wq" y despues ponemos ssh service restart
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
