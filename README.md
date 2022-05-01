@@ -33,7 +33,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/58c1a5cdba2f5678112950501607629a8b94dd40/4.PNG)
 
 * 3.4 Despues nos pedira que pongamos un localhost, le pondremos "node1"
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/93f97e93228f4f867906a579ca64e818141b5df6/5.PNG)
 
 * 3.5 Nos dira si queremos poner una ip tanto en eth o dhcp, le damos enter, que es como omitir
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
