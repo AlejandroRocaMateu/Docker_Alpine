@@ -60,7 +60,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/6abbc461a3f06df3279951a0d1ef931de7f7336e/11.PNG)
 
 * 3.12 Justo despues no pedira si queremso continuar con el disco le diremos que si
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/9970464fd93ea24a855a49a392469839c2876332/12.PNG)
 
 * 3.13 Nos pedira reiniciar y los reiniciamos poniendo "poweroff"
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
