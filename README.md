@@ -72,7 +72,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/ed9f30d9ec150ed067b8f3a69df0f0d2a3f61186/15.PNG)
 
 * 3.16 Salimos con "esc :wq" y despues ponemos ssh service restart
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/b625121ef871d0d82e6dd526b590a38aac68590e/16.PNG)
 
 * 3.17 Luego nos iremos a nuestro powershell y intentaremos conectarnos a nuestro alpine desde ahi,  desde Power shell ya conectados, pondremos "vi /etc/apk/repositories"
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
