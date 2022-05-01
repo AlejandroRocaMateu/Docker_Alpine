@@ -46,7 +46,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/531555ea680b92d21061388c5ddbb924291e677c/7.PNG)
 
 * 3.8 En las siguientes dos opciones las dejamos por defecto, y le damos a enter.
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/531555ea680b92d21061388c5ddbb924291e677c/7.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/61522ae416e501703d329a02639e868e97ea91a5/8.PNG)
 
 * 3.9 Ahora nos saldra un listado de archivos y nosotros le damos a enter que es el 1 por defecto
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
