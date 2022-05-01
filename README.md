@@ -49,7 +49,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/61522ae416e501703d329a02639e868e97ea91a5/8.PNG)
 
 * 3.9 Ahora nos saldra un listado de archivos y nosotros le damos a enter que es el 1 por defecto
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/58a1b5213965bf21dc48737eca1d2a7c6292a1a1/9.PNG)
 
 * 3.10 En la siguiente opcion pondremos la que viene por defecto con el openssh
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
