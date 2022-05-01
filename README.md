@@ -55,6 +55,7 @@
 
 
 * 3.11 Ahora nos pedira que disco queremos utilizar y le pondremso el "sda" y despues nos pedira como queremos usarlo y pondremos "sys"
+
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/f447c3e792b63e4c3c6a2362188ba5084a2c49b8/10.PNG)
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/6abbc461a3f06df3279951a0d1ef931de7f7336e/11.PNG)
 
