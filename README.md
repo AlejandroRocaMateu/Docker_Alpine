@@ -36,13 +36,12 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/93f97e93228f4f867906a579ca64e818141b5df6/5.PNG)
 
 * 3.5 Nos dira si queremos poner una ip tanto en eth o dhcp, le damos enter, que es como omitir
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.6 Despues de darle a nter, el siguiente paso sera darle una contraseña, le ponemos una contreña y confirmamos otra vez
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+
 
 * 3.7 Luego elegiremos la zona horaria, damos al ? y nos saldra una lista y seleccionamos "Europe" y despues que Cuidad le ponemos "Madrid"
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/d4585837c30c0af706a03f44997bf6ddfd084b99/6.PNG)
 
 * 3.8 En las siguientes dos opciones las dejamos por defecto, y le damos a enter.
 
