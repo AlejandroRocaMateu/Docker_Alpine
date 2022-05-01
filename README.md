@@ -41,7 +41,9 @@
 
 
 * 3.7 Luego elegiremos la zona horaria, damos al ? y nos saldra una lista y seleccionamos "Europe" y despues que Cuidad le ponemos "Madrid"
+
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/d4585837c30c0af706a03f44997bf6ddfd084b99/6.PNG)
+![Alpine]()
 
 * 3.8 En las siguientes dos opciones las dejamos por defecto, y le damos a enter.
 
