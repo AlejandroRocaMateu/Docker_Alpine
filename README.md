@@ -1,4 +1,4 @@
-# COMO INTALAR DOCKER EN ALPINE
+# COMO INSTALAR DOCKER EN ALPINE
 
 # 1.Instalar el  software Alpine
 (El primer paso, en teoria seria instalar el VMB pero, como no hay mucho y despues habra que cambiar cosas, ese paso, lo salto.)
