@@ -23,7 +23,7 @@
 # 3. Instalacion de Alpine
 
 * 3.1 Cuando iniciemos el isntalador, nos pedira que nos registremos con un usuario, pero como no tendremos, iremos con el root.
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/8381d6af8ebe99a580fb7c43cdb21e1423881ece/2.PNG)
 
 
 * 3.2 Cuando entremos ya con el root,ejecutaremos el comando "setup-alpine"
