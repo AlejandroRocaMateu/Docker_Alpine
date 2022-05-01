@@ -30,7 +30,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/75950f58077d1908025bd96cb26e9b8416460707/3.PNG)
 
 * 3.3 Le daremos al enter, y nos pedire que seleccionemos el idioma de teclado, y ponemos "es"
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/58c1a5cdba2f5678112950501607629a8b94dd40/4.PNG)
 
 * 3.4 Despues nos pedira que pongamos un localhost, le pondremos "node1"
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
