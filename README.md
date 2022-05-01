@@ -75,7 +75,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/b625121ef871d0d82e6dd526b590a38aac68590e/16.PNG)
 
 * 3.17 Luego nos iremos a nuestro powershell y intentaremos conectarnos a nuestro alpine desde ahi,  desde Power shell ya conectados, pondremos "vi /etc/apk/repositories"
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/1e71f3ae9e1fc39bee037218112ba2e21a6bf284/17.PNG)
 
 * 3.18 Justo dentro quitaremos la #  a todos las frases que nos poene ahi, y despues con el "esc :wq" 
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
