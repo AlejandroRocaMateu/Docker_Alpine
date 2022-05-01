@@ -52,10 +52,10 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/58a1b5213965bf21dc48737eca1d2a7c6292a1a1/9.PNG)
 
 * 3.10 En la siguiente opcion pondremos la que viene por defecto con el openssh
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+
 
 * 3.11 Ahora nos pedira que disco queremos utilizar y le pondremso el "sda" y despues nos pedira como queremos usarlo y pondremos "sys"
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/f447c3e792b63e4c3c6a2362188ba5084a2c49b8/10.PNG)
 
 * 3.12 Justo despues no pedira si queremso continuar con el disco le diremos que si
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
