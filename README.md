@@ -63,9 +63,11 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/9970464fd93ea24a855a49a392469839c2876332/12.PNG)
 
 * 3.13 Nos pedira reiniciar y los reiniciamos poniendo "poweroff"
+
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/f9567085c0c93faa47a90d56761d4aec4fce97cf/13.PNG)
 
 * 3.14 Ahora lo volveremos a iniciar, depsues cuando entremos nos iremos a un editor de repositorios, y ponemos esto vi /etc/ssh/sssh_config
+
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/4e2bd61a3e2e198be2ed1380135db7c6708f6c7b/14.PNG)
 
 * 3.15 Cuando le demos a enter, ahora nos iremos abajo del todo y vamos a la opcion de "PermitRootLogin" le quitamos el # y depsue borramos lo que tiene delante suyo y los sustituimos por "yes" 
