@@ -23,42 +23,61 @@
 # 3. Instalacion de Alpine
 
 * 3.1 Cuando iniciemos el isntalador, nos pedira que nos registremos con un usuario, pero como no tendremos, iremos con el root.
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+
 
 * 3.2 Cuando entremos ya con el root,ejecutaremos el comando "setup-alpine"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.3 Le daremos al enter, y nos pedire que seleccionemos el idioma de teclado, y ponemos "es"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.4 Despues nos pedira que pongamos un localhost, le pondremos "node1"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.5 Nos dira si queremos poner una ip tanto en eth o dhcp, le damos enter, que es como omitir
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.6 Despues de darle a nter, el siguiente paso sera darle una contraseña, le ponemos una contreña y confirmamos otra vez
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.7 Luego elegiremos la zona horaria, damos al ? y nos saldra una lista y seleccionamos "Europe" y despues que Cuidad le ponemos "Madrid"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.8 En las siguientes dos opciones las dejamos por defecto, y le damos a enter.
 
 * 3.9 Ahora nos saldra un listado de archivos y nosotros le damos a enter que es el 1 por defecto
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.10 En la siguiente opcion pondremos la que viene por defecto con el openssh
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.11 Ahora nos pedira que disco queremos utilizar y le pondremso el "sda" y despues nos pedira como queremos usarlo y pondremos "sys"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.12 Justo despues no pedira si queremso continuar con el disco le diremos que si
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.13 Nos pedira reiniciar y los reiniciamos poniendo "poweroff"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.14 Ahora lo volveremos a iniciar, depsues cuando entremos nos iremos a un editor de repositorios, y ponemos esto vi /etc/ssh/sssh_config
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.15 Cuando le demos a enter, ahora nos iremos abajo del todo y vamos a la opcion de "PermitRootLogin" le quitamos el # y depsue borramos lo que tiene delante suyo y los sustituimos por "yes" 
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.16 Salimos con "esc :wq" y despues ponemos ssh service restart
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.17 Luego nos iremos a nuestro powershell y intentaremos conectarnos a nuestro alpine desde ahi,  desde Power shell ya conectados, pondremos "vi /etc/apk/repositories"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.18 Justo dentro quitaremos la #  a todos las frases que nos poene ahi, y despues con el "esc :wq" 
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.19 Y ahora añadiremos el docker poniendo "apk add docker"
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
 
 * 3.20 Y ahora para probar que funciona pondremos el comando "docker version" y si nos ha funcionado nos saldra toda la informaciondel docker.
 
