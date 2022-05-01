@@ -78,7 +78,7 @@
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/1e71f3ae9e1fc39bee037218112ba2e21a6bf284/17.PNG)
 
 * 3.18 Justo dentro quitaremos la #  a todos las frases que nos poene ahi, y despues con el "esc :wq" 
-![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
+![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/a89363c96fb8c3ff8842a91fddb6ef7388fe8d24/18.PNG)
 
 * 3.19 Y ahora añadiremos el docker poniendo "apk add docker"
 ![Alpine](https://github.com/AlejandroRocaMateu/Docker_Alpine/blob/3feb94a8ed77b50e17ca2a5a2c7e6d7b15d6acdc/1.PNG)
